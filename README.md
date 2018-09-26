@@ -29,7 +29,7 @@ We will start off by using Python (can consider going into R or various language
 
 1. **Anaconda**: This is a great tool to manage Python Environments and Packages
 2. **JuPyter**: DataCamp Projects make use of JuPyter Notebooks. This is also usefull for project collaboration and sharing.
-3. **PyCharm**: IDE for Python development. Has built in Git management as well as integration with Anaconda Environment management.\
+3. **PyCharm**: IDE for Python development. Has built in Git management as well as integration with Anaconda Environment management.
 
 # Machine Learning Yearning
 This is a book written by the AI celeb Andrew Ng as a handbook for practical strategies for real world AI projects. It is based on his many years of experience in implimenting Machine Learning and AI strategies for companies and business ideas.
