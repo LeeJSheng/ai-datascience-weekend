@@ -3,22 +3,22 @@ This week will just be the basics ans laying the foundations and trying out what
 
 ## Prerequisite &amp; Set-up
 Before we meet up for our study group, there are some preliminary task that should be done, namely setting up your environment and packages.
-### &gt; Anaconda
+### Anaconda
 Have Anaconda installed on your system. During the installation process, there is an option to add it to your environment `PATH`. Even though it says it might not be recommended, I would suggest to add it to `PATH` if you have not installed Python previously. The warning they gave is to prevent mixing the Anaconda environments with existing Python environments if you already have them.
 
 Alternatively, if you'd rather use VirtualEnv, that is fine as well.
 
-### &gt; JuPyter
+### JuPyter
 JuPyter is a notebook that DataCamp uses for their Projects. Various other tutorials also make use of JuPyter because it's quite a nifty tool to run code step by step and provide Mark Down notes. This also makes it very usefull to share with other people.
 
-### &gt; Packages
+### Packages
 Some of these packages already come pre-installed with Anaconda, just double check to make sure you have them:
 * NumPy
 * Pandas
 * Matplotlib
 * Scikit
 
-### &gt; PyCharm or Any IDE
+### PyCharm or Any IDE
 Just any IDE to run code and build projects as well as go through notebooks.
 
 ## Topics
