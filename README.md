@@ -8,7 +8,7 @@ Other resrouces for this study group can be found this this [Google Drive](https
 ## DataCamp Projects
 DataCamp contains Projects &amp; Case Studies to put theory into practice. We will be using these to get some hands on work on real data. Eventually, we will probably migrate to finding our own datasets and coming up with our own projects and ideas.
 
-### &gt; Topics
+### Topics
 DataCamp Projects cover various combinations of the following topics:
 
 1. Programming
@@ -21,7 +21,7 @@ DataCamp Projects cover various combinations of the following topics:
 8. Reporting
 9. Case Studies
 
-### &gt; Associated Courses
+### Associated Courses
 These Projects are meant to compliment courses on DataCamp, so each Project will have a list of recommended prerequisite Courses you should try to complete before hand
 
 ## Python &amp; Setup
