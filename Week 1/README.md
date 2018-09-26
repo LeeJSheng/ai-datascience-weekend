@@ -1,5 +1,5 @@
 # Week 1
-This week will just be the basics ans laying the foundations and trying out what works for us
+This week will just be the basics and laying the foundations and trying out what works for us
 
 ## Prerequisite &amp; Set-up
 Before we meet up for our study group, there are some preliminary task that should be done, namely setting up your environment and packages.
